@@ -1,0 +1,33 @@
+.sidebarChat {
+  display: flex;
+  flex-direction: row;
+
+  background-color: #f6f6f6;
+}
+
+.sidebarChat-info {
+  display: flex;
+  width: 23vw;
+  cursor: pointer;
+  background-color: white;
+  padding: 10px;
+}
+
+
+a {
+  text-decoration: none;
+  color: black;
+}
+.sidebarChat-info:hover {
+  background-color: #ebebeb;
+}
+
+.sidebarChat-left {
+  margin-right: 10px;
+}
+
+
+.sidebarChat-right {
+  align-items:  center;
+
+}
